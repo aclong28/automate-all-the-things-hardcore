@@ -7,7 +7,7 @@ variables:
   - name: AWS_REGION
     value: eu-central-1 # This value was modified by the initial-setup python script
   - name: APP_NAME
-    value: ngao-nghe-hardcore # This value was modified by the initial-setup python script
+    value: ngao-nghe # This value was modified by the initial-setup python script
 
 pool:
 #  vmImage: 'ubuntu-latest' 

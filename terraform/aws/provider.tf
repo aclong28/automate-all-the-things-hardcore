@@ -12,8 +12,8 @@ terraform {
   }
 
   backend "s3" {
-    bucket         = "ngao-nghe-hardcore-tf-state-bucket"          # This value was modified by the initial-setup python script
-    dynamodb_table = "ngao-nghe-hardcore-tf-state-dynamo-db-table" # This value was modified by the initial-setup python script
+    bucket         = "ngao-nghe-tf-state-bucket"          # This value was modified by the initial-setup python script
+    dynamodb_table = "ngao-nghe-tf-state-dynamo-db-table" # This value was modified by the initial-setup python script
     key            = "terraform.tfstate"
     region         = "eu-central-1" # This value was modified by the initial-setup python script
     encrypt        = true

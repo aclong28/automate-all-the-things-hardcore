@@ -1,4 +1,4 @@
 apiVersion: v2
-name: ngao-nghe-hardcore-backend # This value was modified by the initial-setup python script
-description: A Helm chart for deploying ngao-nghe-hardcore-backend # This value was modified by the initial-setup python script
+name: ngao-nghe-backend # This value was modified by the initial-setup python script
+description: A Helm chart for deploying ngao-nghe-backend # This value was modified by the initial-setup python script
 version: 1.0

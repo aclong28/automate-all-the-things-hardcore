@@ -1,5 +1,5 @@
-appName: ngao-nghe-hardcore-backend # This value was modified by the initial-setup python script
+appName: ngao-nghe-backend # This value was modified by the initial-setup python script
 
 deployment:
   image:
-    repository: aclong27/ngao-nghe-hardcore-backend # This value was modified by the initial-setup python script
+    repository: aclong27/ngao-nghe-backend # This value was modified by the initial-setup python script

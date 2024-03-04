@@ -1,8 +1,8 @@
-appName: ngao-nghe-hardcore-frontend # This value was modified by the initial-setup python script
+appName: ngao-nghe-frontend # This value was modified by the initial-setup python script
 
 deployment:
   image:
-    repository: aclong27/ngao-nghe-hardcore-frontend # This value was modified by the initial-setup python script
+    repository: aclong27/ngao-nghe-frontend # This value was modified by the initial-setup python script
 
 configmap:
   images: |-
