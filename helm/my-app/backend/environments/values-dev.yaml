@@ -2,7 +2,7 @@ environment: dev
 
 deployment:
   image:  
-    tag: 0
+    tag: 48
   replicas: 1
   env:
     redis_host: master.ngao-nghe-dev-elascache-rep-group.7x8qwo.euc1.cache.amazonaws.com # This value was modified by the deploy-infra pipeline
